@@ -1,0 +1,4 @@
+interface:
+  display_name: "Domain Context Skill"
+  short_description: "Capture compact DB, API, page, and workflow guides"
+  default_prompt: "Use $domain-context-template to capture compact repository-visible domain guides for DB, API, page, or workflow context."

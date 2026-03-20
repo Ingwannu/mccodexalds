@@ -1,0 +1,4 @@
+interface:
+  display_name: "Comment Intent Skill"
+  short_description: "Explain intent, constraints, and coupling in comments"
+  default_prompt: "Use $commenting-intent-and-coupling to review or write comments that explain intent, constraints, and coupling."

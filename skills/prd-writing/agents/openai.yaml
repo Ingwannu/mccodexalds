@@ -1,0 +1,4 @@
+interface:
+  display_name: "PRD Writing Skill"
+  short_description: "Draft compact, execution-ready PRDs"
+  default_prompt: "Use $prd-writing to draft or refine a compact PRD with goal, non-goals, requirements, dependencies, risks, and tests."

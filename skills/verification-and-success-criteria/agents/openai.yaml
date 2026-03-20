@@ -1,0 +1,4 @@
+interface:
+  display_name: "Verification Skill"
+  short_description: "Define success with concrete checks and evidence"
+  default_prompt: "Use $verification-and-success-criteria to define success criteria and validate the result with explicit evidence."

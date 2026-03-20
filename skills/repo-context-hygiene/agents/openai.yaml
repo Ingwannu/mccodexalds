@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repo Context Hygiene Skill"
+  short_description: "Place durable project knowledge in the right home"
+  default_prompt: "Use $repo-context-hygiene to decide what context should become repository-visible guidance and where it belongs."

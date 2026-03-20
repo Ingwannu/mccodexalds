@@ -1,0 +1,4 @@
+interface:
+  display_name: "PR Guide Skill"
+  short_description: "Prepare repository-visible implementation handoffs"
+  default_prompt: "Use $pr-guide to prepare a repository-visible handoff with summary, why, decisions, risks, and verification."

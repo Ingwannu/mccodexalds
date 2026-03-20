@@ -1,0 +1,4 @@
+interface:
+  display_name: "Specification Skill"
+  short_description: "Turn vague implementation work into compact specs"
+  default_prompt: "Use $spec-before-implementation to turn this request into a compact spec with scope, constraints, and acceptance criteria before coding."

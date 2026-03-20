@@ -1,0 +1,4 @@
+interface:
+  display_name: "Decision Logging Skill"
+  short_description: "Record non-obvious choices and tradeoffs"
+  default_prompt: "Use $decision-logging to capture the decision, alternatives, constraints, and why the chosen path won."

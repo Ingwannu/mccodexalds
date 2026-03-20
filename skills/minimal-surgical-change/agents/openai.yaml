@@ -1,0 +1,4 @@
+interface:
+  display_name: "Minimal Change Skill"
+  short_description: "Keep patches tight, local, and traceable"
+  default_prompt: "Use $minimal-surgical-change to make the smallest correct change for this bug fix or narrow patch."
